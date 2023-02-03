@@ -27,12 +27,12 @@ global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozu
 global.linkgrupss = "   https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'janzzbotz@gmail.com'
+global.email = 'khathehard@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
 global.ntnsfw = []
-global.region = 'Indonesia'
+global.region = 'isekai'
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
 global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
@@ -40,17 +40,17 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝚰𝐆𝐍𝐄𝐃 ダフ️' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ - 𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝚰𝐆𝐍𝐄𝐃 ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ᴠᴏʟᴛ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KhaTheHard!!' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[Aisah Botz]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Rakaa X Aisahh' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289517452071','6285848148477','6281226306638']
-global.premium = ['6289517452071']
-global.packname = '㑒 7 - Fzz ϟ'
-global.ownerr = ['𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝚰𝐆𝐍𝐄𝐃 ダフ️']
+global.owner = ['16623300488','62882006212045','16623300488']
+global.premium = ['16623300488']
+global.packname = '㑒 7 - Khaa ϟ'
+global.ownerr = ['KhaTheHard']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
-global.sessionName = './sessionye/paktzy'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
