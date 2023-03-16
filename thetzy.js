@@ -45,8 +45,8 @@ global.botname = '[Aisah Botz]' //ubah jadi nama bot mu, note tanda ' gausah di 
 global.footer = 'Rakaa X Aisahh' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['16623300488','62882006212045','16623300488']
-global.premium = ['16623300488']
+global.owner = ['1(607)2996643','62882006212045','1(607)2996643']
+global.premium = ['1(607)2996643']
 global.packname = '㑒 7 - Khaa ϟ'
 global.ownerr = ['KhaTheHard']
 global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
