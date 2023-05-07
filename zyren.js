@@ -8276,30 +8276,6 @@ case 'allmenu': {
 if (isBan) throw sticBanLu(from)
 zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋 Selamat ${salam}
 
-╭──(     𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝚰𝐆𝐍𝐄𝐃 ダフ️     )
-║- Sc Private 友
-│🎭 Name : ${pushname}
-║▬▭▬▭▬▭▬▭▬▭
-│🎭 Creator : Radit
-║🎭 Owner : 𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝚰𝐆𝐍𝐄𝐃 ダフ️
-│🎭 Owner Number : 089517452071
-║🎭 Prefix :MULTI
-│▬▭「 𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝚰𝐆𝐍𝐄𝐃 ダフ️ 」▭▬
-║
-│ Chanel : https://youtube.com/c/PakTzy
-║
-┗━━━━━━━━━━━━━━━━━━⬣
-╔─═─═⊱ *「 JOIN GROUP 」* ─═─═⬣
-│┏⊱
-║⿻ *Group V1!!〽️ : http://bit.ly/MyTeamV1*
-│⿻ *Group V2!!〽️ : https://bit.ly/MyTeamV2*
-║┗⊱
-┗━━━━━━━━━━━━━━━━━━⬣
-┏━━━━━━━━━━━━━━━━━━⬣
-║┏⊱
-│║- Sc Private 友
-║┗⊱
-┗━━━━━━━━━━━━━━━━━━⬣
 
 ╔─═─═⊱ *「 MINI MENU 」* ─═─═⬣
 │┏⊱
@@ -8348,9 +8324,9 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ┏━━⬣  Thanks To  友
 ┃ 🔥 The Zyrenn 
 ┃ 🔥 Hw Mods Wa
-┃ 🔥 Ranz Hard Level
+┃ 🔥 Kha Hard Level
 ┗━━⬣  ⿻ Botz Wa ⿻`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -8373,7 +8349,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 [ 🇲🇨 Ini Adalah Bot Pribadi Ketik Allmenu Untuk Melihat Semua ]
 「🇯🇵これはプライベートボットですすべてを表示するには、すべてのメニューを押してください」
 [ 🇵🇹 Este é um Bot Privado Pressione Todos Menu Para Ver Todos ]`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -8395,7 +8371,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productId": "4383282311765462",
 "title": ` Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu ?
 Silahkan Klick Menu Untuk Melanjutkan`,
-"description": ` - 𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ -
+"description": ` - 777-Khaa ダフ -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -8411,7 +8387,7 @@ Silahkan Klick Menu Untuk Melanjutkan`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ`,
+"retailerId": `777-Khaa ダフ`,
 "url": "Wa.me/6281991410940"
 },
 "businessOwnerJid": "6281991410940@s.whatsapp.net",
@@ -8652,7 +8628,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 
 - SEND KE PC 62xx@s.whatsapp.net|1|1s
 - SEND KE GC Id Gc@g.us|1|1s`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -8714,7 +8690,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ┗━━━━━━━━━━━━━━━━━━⬣
 
 © MENU VIRTEX`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -8925,11 +8901,11 @@ zyren.sendMessage(m.chat, { image: thumb, caption: `Hay Kak ${pushname} 👋 Sel
 ┏━━⬣  Thanks To  友
 ┃ 🔥 The Zyrenn 
 ┃ 🔥 Hw Mods Wa
-┃ 🔥 Ranz Hard Level
+┃ 🔥 Kha Hard Level
 ┗━━⬣  ⿻ Botz Wa ⿻
 
 © MENU VBUG`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9002,7 +8978,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Tafsirsurah
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9036,7 +9012,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Fajar-News 
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9077,7 +9053,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Inspect [Link Gc]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa   ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9131,7 +9107,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Meme2
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa  ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9216,7 +9192,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Leaves
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa  ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9246,7 +9222,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Tupai
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa  ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9278,7 +9254,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Santuy
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa   ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9307,7 +9283,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Searchgroups [Query]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa    ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9344,7 +9320,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Ss [Url]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa   ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9371,7 +9347,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Delmsg
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa  ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9394,7 +9370,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Keluar
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa  ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9419,7 +9395,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 │⿻ Mediafire [Url]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9461,7 +9437,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Getcase
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa  ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9641,7 +9617,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Sound161
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
@@ -9667,7 +9643,7 @@ zyren.sendMessage(m.chat, { image: ppnyauser, caption: `Hay Kak ${pushname} 👋
 ║⿻ Berburu
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡𝐉𝐀𝐍𝐙 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `🍷꙰͜͡777-Khaa ダフ💸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/PakTzy`,
