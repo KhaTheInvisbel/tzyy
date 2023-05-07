@@ -41,15 +41,15 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'KhaTheHard!!' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[Aisah Botz]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Rakaa X Aisahh' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[Esempe Botz]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '777-Khaa' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['1(607)2996643','62882006212045','1(607)2996643']
-global.premium = ['1(607)2996643']
+global.owner = ['16268894037','16268894037','16072996643']
+global.premium = ['16268894037']
 global.packname = '㑒 7 - Khaa ϟ'
 global.ownerr = ['KhaTheHard']
-global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
+global.author = '[⫹⫺ - 㑒 Its - Zxura ϟ〽️]'
 global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
